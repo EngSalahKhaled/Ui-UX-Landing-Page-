@@ -1,8 +1,8 @@
 # 🎨 The UX Review Blog
 
-A **Neo-Brutalist** blog landing page built with pure **HTML5 & CSS3** — no frameworks, no JavaScript.
+A pixel-perfect, HTML/CSS-only clone of **The UX Review** blog. Features a striking **Neo-Brutalist** design language, complex grid layouts, and high-contrast styling. Built with pure HTML5 & CSS3 — no frameworks, no JavaScript.
 
-🔗 **Live Demo:** [View Site](#)
+🔗 **Live Demo:** [View Site](https://the-ux-review-blog.vercel.app/)
 
 ---
 
